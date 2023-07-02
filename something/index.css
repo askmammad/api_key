@@ -1,0 +1,17 @@
+#drop-zone {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial;
+  }
+  
+  #drop-zone.highlight {
+    border-color: #008000;
+  }
+  
+  #drop-zone span {
+    display: block;
+    margin-top: 10px;
+    color: #888;
+  }
+  
